@@ -1,0 +1,38 @@
+
+.form-reporte {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  display: block;
+}
+
+section {
+  max-width: 50%;
+  align-content: center;
+  align-items: center;
+  margin: 10px 35%;
+}
+
+input {
+  width: 70%;
+  display: block;
+  padding: 8px;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 5px;
+  border-style: groove;
+  border-color: white;
+}
+
+button {
+  width: 74%;
+  display: block;
+  padding: 5px;
+  margin: auto;
+  margin-top: 4px;
+  border: 2px;
+  background-color: rgb(43, 153, 226);
+  color: white;
+  border-radius: 5px;
+}
